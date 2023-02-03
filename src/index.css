@@ -76,3 +76,22 @@ code {
     opacity: 0;
   }
 }
+
+.footer {
+  width: 450px;
+  text-align: center;
+  margin: 15px auto 30px auto;
+  font-size: 0.8em;
+  color: rgb(0, 0, 0);
+}
+
+.footer a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+
+.addTodoForm {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
