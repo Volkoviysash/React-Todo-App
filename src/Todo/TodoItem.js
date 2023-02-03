@@ -11,6 +11,7 @@ const styles = {
     border: "1px solid #ccc",
     borderRadius: "4px",
     marginBottom: ".5rem",
+    backgroundColor: "azure",
   },
   input: {
     marginRight: "1rem",
